@@ -13,4 +13,5 @@ dataset: a classifiction problem of horse data.
 
 ## Decision Tree
 ID3:  Based on Information Gain
+
 C4.5: Based on Information Gain Ratio
