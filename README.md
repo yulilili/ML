@@ -9,3 +9,8 @@ Some exercises of Machine learning (based on Statistical Learning Method)
 AdaBoost: Implementation of basic boosting method.
 
 dataset: a classifiction problem of horse data.
+
+
+## Decision Tree
+ID3:  Based on Information Gain
+C4.5: Based on Information Gain Ratio
